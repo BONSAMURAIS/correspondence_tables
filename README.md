@@ -23,11 +23,11 @@ These can be grouped into "before", "during", and "stretch" goals.
 
 ### Before the hackathon
 
-Collect and classify in this directory existing correspondence tables, distinguishing between activities, products and elementary flows tables.
-Convert all correspondence tables previously on the BONSAI goolge drive in a machine-readable format (.csv). 
-Upload the converted tables in this directory and delete them from the goolge drive (after a month). 
-Add missing classification, if any.
-Convert in csv the file containing the overview of the available correspondence tables (the file is only human readable at the moment)
+* Collect and classify in this directory existing correspondence tables, distinguishing between activities, products and elementary flows tables.
+* Convert all correspondence tables previously on the BONSAI goolge drive in a machine-readable format (.csv). 
+* Upload the converted tables in this directory and delete them from the goolge drive (after a month). 
+* Add missing classification, if any.
+* Convert in csv the file containing the overview of the available correspondence tables (the file is only human readable at the moment)
 
 ### During the hackathon
 
