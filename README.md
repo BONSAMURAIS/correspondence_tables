@@ -9,7 +9,7 @@ For discussion on this see [this link](https://bonsai.groups.io/g/hackathon2019/
  * [Miguel Astudillo](https://github.com/mfastudillo)
  * [Brandon Kuczenski](https://github.com/bkuczenski)
  * [Chris Mutel](https://github.com/cmutel)
- * [Add your name]
+ * [Stefano Merciai](https://github.com/Stefano-MRC)
 
 ## Defining goals and objectives
 
