@@ -12,6 +12,7 @@ The integration of these data requires correspondence tables. These establish a 
  * [Brandon Kuczenski](https://github.com/bkuczenski)
  * [Chris Mutel](https://github.com/cmutel)
  * [Stefano Merciai](https://github.com/Stefano-MRC)
+ * [Arthur Jakobs](https://github.com/jakobsarthur)
  * [add your name]
 
 ## Defining goals and objectives
