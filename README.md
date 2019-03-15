@@ -1,7 +1,9 @@
 # Correspondence-tables
-Work space for the correspondence tables working group for BONSAI hackathon 2019 [hackathon2019](https://github.com/BONSAMURAIS/hackathon-2019)
+This is a work space for the correspondence tables working group for BONSAI hackathon 2019 [hackathon2019](https://github.com/BONSAMURAIS/hackathon-2019). The ongoig discussion of the group on this topic is [here](https://bonsai.groups.io/g/hackathon2019/topic/30417494?p=,,,20,0,0,0::relevance,,%23correspondencetables,20,2,0,30417494,ct=1&ct=1)
 
-For discussion on this see [this link](https://bonsai.groups.io/g/hackathon2019/topic/30417494?p=,,,20,0,0,0::relevance,,%23correspondencetables,20,2,0,30417494,ct=1&ct=1)
+## Background
+BONSAI will draw data from multiple sources, e.g. national supply-use tables, statistical databases etc. These have their own native classification to define products, activities, elementary flows or, generally speaking,  objects/activity flows.
+The integration of these data requires correspondence tables. These establish a correspondence between the different names and classifications of flow-objects, activities and properties. 
 
 ## Group members
 
@@ -10,13 +12,14 @@ For discussion on this see [this link](https://bonsai.groups.io/g/hackathon2019/
  * [Brandon Kuczenski](https://github.com/bkuczenski)
  * [Chris Mutel](https://github.com/cmutel)
  * [Stefano Merciai](https://github.com/Stefano-MRC)
+ * [add your name]()
 
 ## Defining goals and objectives
 
-The goal of this working group is to collect and classify correspondence tables between existing classifications, distinguishing between products, activities and elementary flows (all correpsondence tables shall be in machine-readable format) and to convert the correspondence tables in RDF format for entry into the database. 
+The goal of this working group is to collect and classify correspondence tables between existing classifications, distinguishing between products, activities and elementary flows and to convert the correspondence tables in RDF format for entry into the database. 
+All correpsondence tables shall be in machine-readable format. The correspondence tables currently available are uploaded above.
 
-All updates on the correspondence table shall be reported in the overview file above named '_Overview_of_available_correspondence_files'
-(e.g. add new table, change status of existing file etc)
+In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above named _Overview_of_available_correspondence_files 
 
 ## Hackathon Deliverables
 
