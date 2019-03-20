@@ -43,8 +43,6 @@ Convert the correspondence tables in RDF format for entry into the database.
  Expand the correspondence tables converted in RDF format to allow traversing as many classifications as possible.
  
  
- /
- /
  
 
 **Notes for the users:**
