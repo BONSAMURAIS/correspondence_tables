@@ -1,0 +1,27 @@
+{
+    "fields": [
+        {
+            "name": "IndustryTypeCode",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "IndustryTypeName",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "NACE Code A",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "A",
+            "type": "string",
+            "format": "default"
+        }
+    ],
+    "missingValues": [
+        ""
+    ]
+}
