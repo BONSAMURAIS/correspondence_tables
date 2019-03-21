@@ -41,5 +41,10 @@ Convert the correspondence tables in RDF format for entry into the database.
 ### Stretch goals
 
  Expand the correspondence tables converted in RDF format to allow traversing as many classifications as possible.
+ 
+ 
+ 
 
+****Notes for the users:**
 
+*Exiobase HSUTs/HIOT have 164 activities while MSUTs/MIOT have 163 activities. In the HSUTs/HIOT the activity "i40.2 - Manufacture of gas; distribution of gas" is divided into "i40.2.a - Manufacture of gas" and "i40.2.b - Distribution of gas"*
