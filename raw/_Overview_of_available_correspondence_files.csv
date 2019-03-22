@@ -27,4 +27,4 @@ ELCD_act,European Life Cycle Database activities  classification,ELCD,Exiobase_a
 Ecospold 2,Ecospold 2 elementary flows,Ecoinvent,ILCD,International Reference Life Cycle Data System's elementary flows,European Commission - JRC,elementary flows,EcoinventElflow3.2_to_ILCD.csv,Completed and Verified,UN,
 ILCD,International Reference Life Cycle Data System's elementary flows,European Commission - JRC,Ecospold 2,,Ecoinvent,elementary flows,,Missing,,
 Exiobase emissions,Exiobase emissions,Exiobase,Ecospold 2,Ecospold 2 elementary flows,Ecoinvent,elementary flows,,?,?,
-Exiobase_prod,Exiobase HSUTs products,Exiobase,Exiobase_HIOT_prod,Exiobase HIOT products,Exiobase,products,Exiobase_v3_3_17_HSUTs_HIOT_product_correspondences.csv,?,Stefano
+Exiobase_prod,Exiobase HSUTs products,Exiobase,Exiobase_HIOT_prod,Exiobase HIOT products,Exiobase,products,Exiobase_v3_3_17_HSUTs_HIOT_product_correspondences.csv,?,Stefano,
