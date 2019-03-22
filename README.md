@@ -21,7 +21,7 @@ The integration of these data requires correspondence tables. These establish a 
 The goal of this working group is to collect and classify correspondence tables between existing classifications, distinguishing between products, activities and elementary flows and to convert the correspondence tables in RDF format for entry into the database. 
 All correpsondence tables shall be in machine-readable format. The correspondence tables currently available are uploaded above.
 
-In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/_Overview_of_available_correspondence_files.csv)
+In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/raw/_Overview_of_available_correspondence_files.csv)
 
 ## Hackathon Deliverables
 
