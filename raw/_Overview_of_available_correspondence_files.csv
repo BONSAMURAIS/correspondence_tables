@@ -21,10 +21,10 @@ Ecoinvent_prod,Ecoinvent products classification,Ecoinvent,Exiobase_prod,Exiobas
 ELCD_prod,European Life Cycle Database products classification,ELCD,Ecoinvent_prod,Ecoinvent products classification,Ecoinvent,products,,Missing,,
 ISIC,International Standard Industrial Classification of All Economic Activities,United Nations,NACE Rev 2 (2008),Classification of Economic Activities in the European Community,European Union,activities,ISICv4_to_NACEv2.csv,Completed and Verified,UN,(NACE: nomenclature statistique des activit�s �conomiques dans la Communaut� europ�enne)
 NACE Rev 2 (2008),Classification of Economic Activities in the European Community,European Union,ISIC,International Standard Industrial�Classification�of All Economic Activities,United Nations,activities,NACEv2_to_ISICv4.csv,Completed and Verified,UN,(NACE: nomenclature statistique des activit�s �conomiques dans la Communaut� europ�enne)
-Exiobase_act,Exiobase activities classification,Exiobase,NACE Rev 2 (2008),Classification of Economic Activities in the European Community,European Union,activities,exiobase2_to_NACE2008_v2.csv,Incomplete,Cyril,
+Exiobase_act,Exiobase activities classification,Exiobase,NACE Rev 2 (2008),Classification of Economic Activities in the European Community,European Union,activities,exiobase2_to_NACE2008_v2.csv,Incomplete,Cyril/Stefano,
 Ecoinvent_act,Ecoinvent activities classification,Ecoinvent,Exiobase_act,Exiobase activities classification,Exiobase,activities,EcoinventAct3.2_to_exiobase2.csv,Incomplete,Cyril,
 ELCD_act,European Life Cycle Database activities  classification,ELCD,Exiobase_act,Exiobase activities classification,Exiobase,activities,,Missing,UN,
 Ecospold 2,Ecospold 2 elementary flows,Ecoinvent,ILCD,International Reference Life Cycle Data System's elementary flows,European Commission - JRC,elementary flows,EcoinventElflow3.2_to_ILCD.csv,Completed and Verified,UN,
 ILCD,International Reference Life Cycle Data System's elementary flows,European Commission - JRC,Ecospold 2,,Ecoinvent,elementary flows,,Missing,,
 Exiobase emissions,Exiobase emissions,Exiobase,Ecospold 2,Ecospold 2 elementary flows,Ecoinvent,elementary flows,,?,?,
-Exiobase_prod,Exiobase HSUTs products,Exiobase,Exiobase_HIOT_prod,Exiobase HIOT products,Exiobase,products,Exiobase_v3_3_17_HSUTs_HIOT_product_correspondences.csv,?,Stefano,
+Exiobase_prod,Exiobase HSUTs products,Exiobase,Exiobase_HIOT_prod,Exiobase HIOT products,Exiobase,products,Exiobase_v3_3_17_HSUTs_HIOT_product_correspondences.csv,Completed,Stefano,
