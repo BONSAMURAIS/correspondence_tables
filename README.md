@@ -19,7 +19,7 @@ The integration of these data requires correspondence tables. These establish a 
 ## Defining goals and objectives
 
 The goal of this working group is to collect and classify correspondence tables between existing classifications, distinguishing between products, activities and elementary flows and to convert the correspondence tables in RDF format for entry into the database. 
-All correpsondence tables shall be in machine-readable format. The correspondence tables currently available are stored as received in the folder `raw`. The final version after processed to a more usable format are available in the folder `final tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py). The scripts processing the data are available on the folder `scripts`.  
+All correpsondence tables shall be in machine-readable format. The correspondence tables currently available are stored as received in the folder `raw`. The final version after processed to a more usable format are available in the folder `final tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py). The scripts processing the data are available on the folder `scripts`.
 
 In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/raw/_Overview_of_available_correspondence_files.csv)
 
