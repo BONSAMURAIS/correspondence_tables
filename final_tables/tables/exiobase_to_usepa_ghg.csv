@@ -1,0 +1,131 @@
+Exiobase,US_EPA
+"Carbon dioxide, fossil",Carbon dioxide
+N2O,Nitrous oxide
+CH4,Methane
+HFCs,HFC-23
+HFCs,HFC-32
+HFCs,HFC-41
+HFCs,HFC-125
+HFCs,HFC-134
+HFCs,HFC-134a
+HFCs,HFC-143
+HFCs,HFC-143a
+HFCs,HFC-152
+HFCs,HFC-152a
+HFCs,HFC-161
+HFCs,HFC-227ea
+HFCs,HFC-236cb
+HFCs,HFC-236ea
+HFCs,HFC-236fa
+HFCs,HFC-245ca
+HFCs,HFC-245fa
+HFCs,HFC-365mfc
+HFCs,HFC-4310mee
+HFCs,HFC-1234ze(E)
+PFCs,Perfluoropropane
+PFCs,Perfluorocyclobutane
+PFCs,Perfluorobutane
+PFCs,Perfluoropentane
+PFCs,Perfluorohexane
+PFCs,Perfluorodecalin
+PFCs,Hexafluoroethane
+SF6,Sulfur hexafluoride
+NOX,
+SOx,
+NH3,
+NMVOC,
+CO,
+CFCs,CFC-11
+CFCs,CFC-12
+CFCs,CFC-13
+CFCs,CFC-113
+CFCs,CFC-114
+CFCs,CFC-115
+HCFCs,HCFC-21
+HCFCs,HCFC-22
+HCFCs,HCFC-122
+HCFCs,HCFC-123
+HCFCs,HCFC-123a
+HCFCs,HCFC-124
+HCFCs,HCFC-141b
+HCFCs,HCFC-142b
+HCFCs,HCFC-225ca
+HCFCs,HCFC-225cb
+Pb,
+Cd,
+Hg,
+As,
+Cr,
+Cu,
+Ni,
+Se,
+Zn,
+Aldrin,
+Chlordane,
+Chlordecone,
+Dieldrin,
+Endrin,
+Heptachlor,
+Hexabr.-biph.,
+Mirex,
+Toxaphene,
+HCH,
+DDT,
+PCB,
+dioxin,
+PM10,
+"PAH (total of 4 components, sum of EM_AIR.43, 45, 46, 47)",
+Benzene,
+"1,3 Butadiene",
+Formaldehyd,
+PM2.5,
+Furans,
+Benzo-[a]-pyrene,
+PBDEs,
+Benzo-[b]-fluoranthene,
+Benzo-[k]-fluoranthene,
+"Indeno-[1,2,3-cd]-pyrene",
+HCB,
+PCDD/F (dioxins and furans),
+TSP (total suspended particulate),
+N,
+P,
+BOD,
+N,
+P,
+Cd,
+Cu,
+Zn,
+Pb,
+Hg,
+Cr,
+Ni,
+C,
+other emissions,
+"Carbon dioxide, biogenic",Carbon dioxide
+Other emissions nec,Carbon tetrachloride
+Other emissions nec,Chloromethane
+Other emissions nec,Methylene chloride
+Other emissions nec,Chloroform
+Other emissions nec,Dichloroethane
+Other emissions nec,Methyl bromide
+Other emissions nec,Dibromomethane
+Other emissions nec,Bromodifluoromethane
+Other emissions nec,Halon 1211
+Other emissions nec,Halon 1301
+Other emissions nec,Nitrogen trifluoride
+Other emissions nec,Trifluoromethyl sulfur pentafluoride
+Other emissions nec,Sulfuryl fluoride
+Other emissions nec,Carbon tetrafluoride
+Other emissions nec,Tetrafluoroethene
+Other emissions nec,HFE-329mcc2
+Other emissions nec,HFE-338mcf2
+Other emissions nec,HFE-347mcf2
+Other emissions nec,HFE-347pcf2
+Other emissions nec,HFE-356mec3
+Other emissions nec,HFE-356pcf2
+Other emissions nec,HFE-356pcf3
+Other emissions nec,HFE-356pcc3
+Other emissions nec,HFE-365mcf3
+Other emissions nec,HFE-338pcc13 (HG-01)
+Other emissions nec,Methyl chlorocarbonate
