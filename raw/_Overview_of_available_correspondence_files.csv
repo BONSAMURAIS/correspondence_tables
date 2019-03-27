@@ -29,4 +29,4 @@ ILCD,International Reference Life Cycle Data System's elementary flows,European 
 Exiobase emissions,Exiobase emissions,Exiobase,Ecospold 2,Ecospold 2 elementary flows,Ecoinvent,elementary flows,,?,?,
 Exiobase_prod,Exiobase HSUTs products,Exiobase,Exiobase_HIOT_prod,Exiobase HIOT products,Exiobase,products,Exiobase_v3_3_17_HSUTs_HIOT_product_correspondences.csv,Completed,Stefano,
 LC_IMPACT,LC-Impact Version 0.5 - A spatially differentiated life cycle impact assessment approach,LC-Impact,US EPA,United States Environmental Protection Agency,United States Environmental Protection Agency,elementary flows,LC_IMPACT_US_EPA.csv,Completed,Tiago,
-Exiobase,Exiobase activities classification,Exiobase,Bentso,Bentso model technologies,Chris Mutel,activities,Complete not verified,Massimo Pizzol,N-1 classification
+Exiobase,Exiobase activities classification,Exiobase,Bentso,Bentso model technologies,Chris Mutel,activities,Complete not verified,Massimo Pizzol,N-1 classification,
