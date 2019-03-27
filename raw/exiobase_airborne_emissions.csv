@@ -1,0 +1,67 @@
+Emission name,Unit ,Compartment
+"Carbon dioxide, fossil",tonnes,air
+N2O,tonnes,air
+CH4,tonnes,air
+HFCs,tonnes,air
+PFCs,tonnes,air
+SF6,tonnes,air
+NOX ,tonnes,air
+SOx,tonnes,air
+NH3,tonnes,air
+NMVOC,tonnes,air
+CO ,tonnes,air
+CFCs,tonnes,air
+HCFCs,tonnes,air
+Pb,tonnes,air
+Cd,tonnes,air
+Hg,tonnes,air
+As,tonnes,air
+Cr,tonnes,air
+Cu,tonnes,air
+Ni,tonnes,air
+Se,tonnes,air
+Zn,tonnes,air
+Aldrin,tonnes,air
+Chlordane,tonnes,air
+Chlordecone,tonnes,air
+Dieldrin,tonnes,air
+Endrin,tonnes,air
+Heptachlor,tonnes,air
+Hexabr.-biph.,tonnes,air
+Mirex,tonnes,air
+Toxaphene,tonnes,air
+HCH,tonnes,air
+DDT,tonnes,air
+PCB,tonnes,air
+dioxin,tonnes,air
+PM10,tonnes,air
+"PAH (total of 4 components, sum of EM_AIR.43, 45, 46, 47)",tonnes,air
+Benzene,tonnes,air
+"1,3 Butadiene",tonnes,air
+Formaldehyd,tonnes,air
+PM2.5,tonnes,air
+Furans,tonnes,air
+Benzo-[a]-pyrene,tonnes,air
+PBDEs,tonnes,air
+Benzo-[b]-fluoranthene,tonnes,air
+Benzo-[k]-fluoranthene,tonnes,air
+"Indeno-[1,2,3-cd]-pyrene",tonnes,air
+HCB,tonnes,air
+PCDD/F (dioxins and furans),tonnes I-TEQ,air
+TSP (total suspended particulate),tonnes,air
+N,tonnes,water
+P,tonnes,water
+BOD,tonnes,water
+N,tonnes,soil
+P,tonnes,soil
+Cd,tonnes,soil
+Cu,tonnes,soil
+Zn,tonnes,soil
+Pb,tonnes,soil
+Hg,tonnes,soil
+Cr,tonnes,soil
+Ni,tonnes,soil
+C,tonnes,air
+other emissions,tonnes,undef
+"Carbon dioxide, biogenic",tonnes,air
+Other emissions nec,tonnes,air

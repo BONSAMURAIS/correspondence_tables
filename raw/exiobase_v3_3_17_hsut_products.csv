@@ -1,0 +1,201 @@
+Product name,Product code 1,product code 2,unit
+Paddy rice,p01.a,C_PARI,tonnes
+Wheat,p01.b,C_WHEA,tonnes
+Cereal grains nec,p01.c,C_OCER,tonnes
+Vegetables; fruit; nuts,p01.d,C_FVEG,tonnes
+Oil seeds,p01.e,C_OILS,tonnes
+Sugar cane; sugar beet,p01.f,C_SUGB,tonnes
+Plant-based fibers,p01.g,C_FIBR,tonnes
+Crops nec,p01.h,C_OTCR,tonnes
+Cattle,p01.i,C_CATL,tonnes
+Pigs,p01.j,C_PIGS,tonnes
+Poultry,p01.k,C_PLTR,tonnes
+Meat animals nec,p01.l,C_OMEA,tonnes
+Animal products nec,p01.m,C_OANP,tonnes
+Raw milk,p01.n,C_MILK,tonnes
+Wool; silk-worm cocoons,p01.o,C_WOOL,tonnes
+Manure (conventional treatment),p01.w.1,C_MANC,tonnes
+Manure (biogas treatment),p01.w.2,C_MANB,tonnes
+Products of forestry; logging and related services (02),p02,C_FORE,tonnes
+Fish and other fishing products; services incidental of fishing (05),p05,C_FISH,tonnes
+Anthracite,p10.a,C_ANTH,tonnes
+Coking Coal,p10.b,C_COKC,tonnes
+Other Bituminous Coal,p10.c,C_OTBC,tonnes
+Sub-Bituminous Coal,p10.d,C_SUBC,tonnes
+Patent Fuel,p10.e,C_PATF,tonnes
+Lignite/Brown Coal,p10.f,C_LIBC,tonnes
+BKB/Peat Briquettes,p10.g,C_BKBP,tonnes
+Peat,p10.h,C_PEAT,tonnes
+Crude petroleum and services related to crude oil extraction; excluding surveying,p11.a,C_COIL,tonnes
+Natural gas and services related to natural gas extraction; excluding surveying,p11.b,C_GASE,tonnes
+Natural Gas Liquids,p11.b.1,C_GASL,tonnes
+Other Hydrocarbons,p11.c,C_OGPL,tonnes
+Uranium and thorium ores (12),p12,C_ORAN,tonnes
+Iron ores,p13.1,C_IRON,tonnes
+Copper ores and concentrates,p13.20.11,C_COPO,tonnes
+Nickel ores and concentrates,p13.20.12,C_NIKO,tonnes
+Aluminium ores and concentrates,p13.20.13,C_ALUO,tonnes
+Precious metal ores and concentrates,p13.20.14,C_PREO,tonnes
+Lead; zinc and tin ores and concentrates,p13.20.15,C_LZTO,tonnes
+Other non-ferrous metal ores and concentrates,p13.20.16,C_ONFO,tonnes
+Stone,p14.1,C_STON,tonnes
+Sand and clay,p14.2,C_SDCL,tonnes
+Chemical and fertilizer minerals; salt and other mining and quarrying products n.e.c.,p14.3,C_CHMF,tonnes
+Products of meat cattle,p15.a,C_PCAT,tonnes
+Products of meat pigs,p15.b,C_PPIG,tonnes
+Products of meat poultry,p15.c,C_PPLT,tonnes
+Meat products nec,p15.d,C_POME,tonnes
+products of Vegetable oils and fats,p15.e,C_VOIL,tonnes
+Dairy products,p15.f,C_DAIR,tonnes
+Processed rice,p15.g,C_RICE,tonnes
+Sugar,p15.h,C_SUGR,tonnes
+Food products nec,p15.i,C_OFOD,tonnes
+Beverages,p15.j,C_BEVR,tonnes
+Fish products,p15.k,C_FSHP,tonnes
+Tobacco products (16),p16,C_TOBC,tonnes
+Textiles (17),p17,C_TEXT,tonnes
+Wearing apparel; furs (18),p18,C_GARM,tonnes
+Leather and leather products (19),p19,C_LETH,tonnes
+Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),p20,C_WOOD,tonnes
+Wood material for treatment; Re-processing of secondary wood material into new wood material,p20.w,C_WOOW,tonnes
+Pulp,p21.1,C_PULP,tonnes
+Secondary paper for treatment; Re-processing of secondary paper into new pulp,p21.w.1,C_PAPR,tonnes
+Paper and paper products,p21.2,C_PAPE,tonnes
+Printed matter and recorded media (22),p22,C_MDIA,tonnes
+Coke Oven Coke,p23.1.a,C_COKE,tonnes
+Gas Coke,p23.1.b,C_GCOK,tonnes
+Coal Tar,p23.1.c,C_COTA,tonnes
+Motor Gasoline,p23.20.a,C_MGSL,tonnes
+Aviation Gasoline,p23.20.b,C_AGSL,tonnes
+Gasoline Type Jet Fuel,p23.20.c,C_GJET,tonnes
+Kerosene Type Jet Fuel,p23.20.d,C_KJET,tonnes
+Kerosene,p23.20.e,C_KERO,tonnes
+Gas/Diesel Oil,p23.20.f,C_DOIL,tonnes
+Heavy Fuel Oil,p23.20.g,C_FOIL,tonnes
+Refinery Gas,p23.20.h,C_RGAS,tonnes
+Liquefied Petroleum Gases (LPG),p23.20.i,C_LPGA,tonnes
+Refinery Feedstocks,p23.20.j,C_REFF,tonnes
+Ethane,p23.20.k,C_ETHA,tonnes
+Naphtha,p23.20.l,C_NAPT,tonnes
+White Spirit & SBP,p23.20.m,C_WHSP,tonnes
+Lubricants,p23.20.n,C_LUBR,tonnes
+Bitumen,p23.20.o,C_BITU,tonnes
+Paraffin Waxes,p23.20.p,C_PARW,tonnes
+Petroleum Coke,p23.20.q,C_PETC,tonnes
+Non-specified Petroleum Products,p23.20.r,C_NSPP,tonnes
+Nuclear fuel,p23.3,C_NUCF,TJ
+Plastics; basic,p24.a,C_PLAS,tonnes
+Secondary plastic for treatment; Re-processing of secondary plastic into new plastic,p24.a.w,C_PLAW,tonnes
+N-fertiliser,p24.b,C_NFER,tonnes
+P- and other fertiliser,p24.c,C_PFER,tonnes
+Chemicals nec,p24.d,C_CHEM,tonnes
+Charcoal,p24.e,C_CHAR,tonnes
+Additives/Blending Components,p24.f,C_ADDC,tonnes
+Biogasoline,p24.g,C_BIOG,tonnes
+Biodiesels,p24.h,C_BIOD,tonnes
+Other Liquid Biofuels,p24.i,C_OBIO,tonnes
+Rubber and plastic products (25),p25,C_RUBP,tonnes
+Glass and glass products,p26.a,C_GLAS,tonnes
+Secondary glass for treatment; Re-processing of secondary glass into new glass,p26.a.w,C_GLAW,tonnes
+Ceramic goods,p26.b,C_CRMC,tonnes
+Bricks; tiles and construction products; in baked clay,p26.c,C_BRIK,tonnes
+Cement; lime and plaster,p26.d,C_CMNT,tonnes
+Ash for treatment; Re-processing of ash into clinker,p26.d.w,C_ASHW,tonnes
+Other non-metallic mineral products,p26.e,C_ONMM,tonnes
+Basic iron and steel and of ferro-alloys and first products thereof,p27.a,C_STEL,tonnes
+Secondary steel for treatment; Re-processing of secondary steel into new steel,p27.a.w,C_STEW,tonnes
+Precious metals,p27.41,C_PREM,tonnes
+Secondary preciuos metals for treatment; Re-processing of secondary preciuos metals into new preciuos metals,p27.41.w,C_PREW,tonnes
+Aluminium and aluminium products,p27.42,C_ALUM,tonnes
+Secondary aluminium for treatment; Re-processing of secondary aluminium into new aluminium,p27.42.w,C_ALUW,tonnes
+Lead; zinc and tin and products thereof,p27.43,C_LZTP,tonnes
+Secondary lead for treatment; Re-processing of secondary lead into new lead,p27.43.w,C_LZTW,tonnes
+Copper products,p27.44,C_COPP,tonnes
+Secondary copper for treatment; Re-processing of secondary copper into new copper,p27.44.w,C_COPW,tonnes
+Other non-ferrous metal products,p27.45,C_ONFM,tonnes
+Secondary other non-ferrous metals for treatment; Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,p27.45.w,C_ONFW,tonnes
+Foundry work services,p27.5,C_METC,tonnes
+Fabricated metal products; except machinery and equipment (28),p28,C_FABM,tonnes
+Machinery and equipment n.e.c. (29),p29,C_MACH,tonnes
+Office machinery and computers (30),p30,C_OFMA,tonnes
+Electrical machinery and apparatus n.e.c. (31),p31,C_ELMA,tonnes
+Radio; television and communication equipment and apparatus (32),p32,C_RATV,tonnes
+Medical; precision and optical instruments; watches and clocks (33),p33,C_MEIN,tonnes
+Motor vehicles; trailers and semi-trailers (34),p34,C_MOTO,Meuro
+Other transport equipment (35),p35,C_OTRE,Meuro
+Furniture; other manufactured goods n.e.c. (36),p36,C_FURN,tonnes
+Secondary raw materials,p37,C_RYMS,Meuro
+Bottles for treatment; Recycling of bottles by direct reuse,p37.w.1,C_BOTW,tonnes
+Electricity by coal,p40.11.a,C_POWC,TJ
+Electricity by gas,p40.11.b,C_POWG,TJ
+Electricity by nuclear,p40.11.c,C_POWN,TJ
+Electricity by hydro,p40.11.d,C_POWH,TJ
+Electricity by wind,p40.11.e,C_POWW,TJ
+Electricity by petroleum and other oil derivatives,p40.11.f,C_POWP,TJ
+Electricity by biomass and waste,p40.11.g,C_POWB,TJ
+Electricity by solar photovoltaic,p40.11.h,C_POWS,TJ
+Electricity by solar thermal,p40.11.i,C_POWE,TJ
+Electricity by tide; wave; ocean,p40.11.j,C_POWO,TJ
+Electricity by Geothermal,p40.11.k,C_POWM,TJ
+Electricity nec,p40.11.l,C_POWZ,TJ
+Transmission services of electricity,p40.12,C_POWT,Meuro
+Distribution and trade services of electricity,p40.13,C_POWD,Meuro
+Coke oven gas,p40.2.a,C_COOG,tonnes
+Blast Furnace Gas,p40.2.b,C_MBFG,tonnes
+Oxygen Steel Furnace Gas,p40.2.c,C_MOSG,tonnes
+Gas Works Gas,p40.2.d,C_MGWG,tonnes
+Biogas,p40.2.e,C_MBIO,tonnes
+Distribution services of gaseous fuels through mains,p40.2.1,C_GASD,Meuro
+Steam and hot water supply services,p40.3,C_HWAT,TJ
+Collected and purified water; distribution services of water (41),p41,C_WATR,Meuro
+Construction work (45),p45,C_CONS,Meuro
+Secondary construction material for treatment; Re-processing of secondary construction material into aggregates,p45.w,C_CONW,tonnes
+Sale; maintenance; repair of motor vehicles; motor vehicles parts; motorcycles; motor cycles parts and accessoiries,p50.a,C_TDMO,Meuro
+Retail trade services of motor fuel,p50.b,C_TDFU,Meuro
+Wholesale trade and commission trade services; except of motor vehicles and motorcycles (51),p51,C_TDWH,Meuro
+Retail  trade services; except of motor vehicles and motorcycles; repair services of personal and household goods (52),p52,C_TDRT,Meuro
+Hotel and restaurant services (55),p55,C_HORE,Meuro
+Railway transportation services,p60.1,C_TRAI,Meuro
+Other land transportation services,p60.2,C_TLND,Meuro
+Transportation services via pipelines,p60.3,C_TPIP,Meuro
+Sea and coastal water transportation services,p61.1,C_TWAS,Meuro
+Inland water transportation services,p61.2,C_TWAI,Meuro
+Air transport services (62),p62,C_TAIR,Meuro
+Supporting and auxiliary transport services; travel agency services (63),p63,C_TAUX,Meuro
+Post and telecommunication services (64),p64,C_PTEL,Meuro
+Financial intermediation services; except insurance and pension funding services (65),p65,C_FINT,Meuro
+Insurance and pension funding services; except compulsory social security services (66),p66,C_FINS,Meuro
+Services auxiliary to financial intermediation (67),p67,C_FAUX,Meuro
+Real estate services (70),p70,C_REAL,Meuro
+Renting services of machinery and equipment without operator and of personal and household goods (71),p71,C_MARE,Meuro
+Computer and related services (72),p72,C_COMP,Meuro
+Research and development services (73),p73,C_RESD,Meuro
+Other business services (74),p74,C_OBUS,Meuro
+Public administration and defence services; compulsory social security services (75),p75,C_PADF,Meuro
+Education services (80),p80,C_EDUC,Meuro
+Health and social work services (85),p85,C_HEAL,Meuro
+Food waste for treatment: incineration,p90.1.a,C_INCF,tonnes
+Paper waste for treatment: incineration,p90.1.b,C_INCP,tonnes
+Plastic waste for treatment: incineration,p90.1.c,C_INCL,tonnes
+Intert/metal waste for treatment: incineration,p90.1.d,C_INCM,tonnes
+Textiles waste for treatment: incineration,p90.1.e,C_INCT,tonnes
+Wood waste for treatment: incineration,p90.1.f,C_INCW,tonnes
+Oil/hazardous waste for treatment: incineration,p90.1.g,C_INCO,tonnes
+Food waste for treatment: biogasification and land application,p90.2.a,C_BIOF,tonnes
+Paper waste for treatment: biogasification and land application,p90.2.b,C_BIOP,tonnes
+Sewage sludge for treatment: biogasification and land application,p90.2.c,C_BIOS,tonnes
+Food waste for treatment: composting and land application,p90.3.a,C_COMF,tonnes
+Paper and wood waste for treatment: composting and land application,p90.3.b,C_COMW,tonnes
+Food waste for treatment: waste water treatment,p90.4.a,C_WASF,tonnes
+Other waste for treatment: waste water treatment,p90.4.b,C_WASO,tonnes
+Food waste for treatment: landfill,p90.5.a,C_LANF,tonnes
+Paper for treatment: landfill,p90.5.b,C_LANP,tonnes
+Plastic waste for treatment: landfill,p90.5.c,C_LANL,tonnes
+Inert/metal/hazardous waste for treatment: landfill,p90.5.d,C_LANI,tonnes
+Textiles waste for treatment: landfill,p90.5.e,C_LANT,tonnes
+Wood waste for treatment: landfill,p90.5.f,C_LANW,tonnes
+Membership organisation services n.e.c. (91),p91,C_ORGA,Meuro
+Recreational; cultural and sporting services (92),p92,C_RECR,Meuro
+Other services (93),p93,C_OSER,Meuro
+Private households with employed persons (95),p95,C_PRHH,Meuro
+Extra-territorial organizations and bodies,p99,C_EXTO,Meuro
