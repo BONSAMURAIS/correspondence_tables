@@ -1,0 +1,6 @@
+exiobase_units,ontology_uri
+tonne,http://www.ontology-of-units-of-measure.org/resource/om-2/tonne
+Mm3,http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMegametre
+ha,http://www.ontology-of-units-of-measure.org/resource/om-2/hectare
+Meuro,http://www.ontology-of-units-of-measure.org/resource/om-2/megaeuro
+TJ,http://www.ontology-of-units-of-measure.org/resource/om-2/terajoule
