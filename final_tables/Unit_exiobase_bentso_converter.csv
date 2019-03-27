@@ -1,6 +1,6 @@
-exiobase_units,bentso_units,convert_bentso_to_exiobase
-TJ,MWh,0.0036
-tonne,,
-Mm3,,
-ha,,
-Meuro,,
+exiobase_units,ontology_uri
+tonne,http://www.ontology-of-units-of-measure.org/resource/om-2/tonne
+Mm3,http://www.ontology-of-units-of-measure.org/resource/om-2/cubicMegametre
+ha,http://www.ontology-of-units-of-measure.org/resource/om-2/hectare
+Meuro,http://www.ontology-of-units-of-measure.org/resource/om-2/megaeuro
+TJ,http://www.ontology-of-units-of-measure.org/resource/om-2/terajoule
