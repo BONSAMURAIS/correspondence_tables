@@ -1,19 +1,19 @@
 Bentso technology,uri
-Fossil Hard coal,http://rdf.bonsai.uno/activitytype/bentso/Fossil_Hard_coal
-Fossil Brown coal/Lignite,http://rdf.bonsai.uno/activitytype/bentso/Fossil_Brown_coalorLignite
-Fossil Gas,http://rdf.bonsai.uno/activitytype/bentso/Fossil_Gas
-Fossil Coal-derived gas,http://rdf.bonsai.uno/activitytype/bentso/Fossil_Coal-derived_gas
-Nuclear,http://rdf.bonsai.uno/activitytype/bentso/Nuclear
-Hydro Pumped Storage,http://rdf.bonsai.uno/activitytype/bentso/Hydro_Pumped_Storage
-Hydro Run-of-river and poundage,http://rdf.bonsai.uno/activitytype/bentso/Hydro_Run-of-river_and_poundage
-Hydro Water Reservoir,http://rdf.bonsai.uno/activitytype/bentso/Hydro_Water_Reservoir
-Wind Offshore,http://rdf.bonsai.uno/activitytype/bentso/Wind_Offshore
-Wind Onshore,http://rdf.bonsai.uno/activitytype/bentso/Wind_Onshore
-Fossil Oil,http://rdf.bonsai.uno/activitytype/bentso/Fossil_Oil
-Biomass,http://rdf.bonsai.uno/activitytype/bentso/Biomass
-Waste,http://rdf.bonsai.uno/activitytype/bentso/Waste
-Solar,http://rdf.bonsai.uno/activitytype/bentso/Solar
-Solar,http://rdf.bonsai.uno/activitytype/bentso/Solar
-Other renewable,http://rdf.bonsai.uno/activitytype/bentso/Other_renewable
-Geothermal,http://rdf.bonsai.uno/activitytype/bentso/Geothermal
-Other,http://rdf.bonsai.uno/activitytype/bentso/Other
+Fossil Hard coal,http://rdf.bonsai.uno/activitytype/entsoe/Fossil_Hard_coal
+Fossil Brown coal/Lignite,http://rdf.bonsai.uno/activitytype/entsoe/Fossil_Brown_coalorLignite
+Fossil Gas,http://rdf.bonsai.uno/activitytype/entsoe/Fossil_Gas
+Fossil Coal-derived gas,http://rdf.bonsai.uno/activitytype/entsoe/Fossil_Coal-derived_gas
+Nuclear,http://rdf.bonsai.uno/activitytype/entsoe/Nuclear
+Hydro Pumped Storage,http://rdf.bonsai.uno/activitytype/entsoe/Hydro_Pumped_Storage
+Hydro Run-of-river and poundage,http://rdf.bonsai.uno/activitytype/entsoe/Hydro_Run-of-river_and_poundage
+Hydro Water Reservoir,http://rdf.bonsai.uno/activitytype/entsoe/Hydro_Water_Reservoir
+Wind Offshore,http://rdf.bonsai.uno/activitytype/entsoe/Wind_Offshore
+Wind Onshore,http://rdf.bonsai.uno/activitytype/entsoe/Wind_Onshore
+Fossil Oil,http://rdf.bonsai.uno/activitytype/entsoe/Fossil_Oil
+Biomass,http://rdf.bonsai.uno/activitytype/entsoe/Biomass
+Waste,http://rdf.bonsai.uno/activitytype/entsoe/Waste
+Solar,http://rdf.bonsai.uno/activitytype/entsoe/Solar
+Solar,http://rdf.bonsai.uno/activitytype/entsoe/Solar
+Other renewable,http://rdf.bonsai.uno/activitytype/entsoe/Other_renewable
+Geothermal,http://rdf.bonsai.uno/activitytype/entsoe/Geothermal
+Other,http://rdf.bonsai.uno/activitytype/entsoe/Other
