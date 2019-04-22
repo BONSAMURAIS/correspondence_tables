@@ -1,9 +1,11 @@
 # Correspondence-tables
-This is a work space for the correspondence tables working group for BONSAI hackathon 2019 [hackathon2019](https://github.com/BONSAMURAIS/hackathon-2019). The ongoig discussion of the group on this topic is [here](https://bonsai.groups.io/g/hackathon2019/topic/30417494?p=,,,20,0,0,0::relevance,,%23correspondencetables,20,2,0,30417494,ct=1&ct=1)
+This is a work space for the correspondence tables working group for BONSAI
 
 ## Background
 BONSAI will draw data from multiple sources, e.g. national supply-use tables, statistical databases etc. These have their own native classification to define products, activities, elementary flows or, generally speaking,  objects/activity flows.
-The integration of these data requires correspondence tables. These establish a correspondence between the different names and classifications of flow-objects, activities and properties. 
+
+The integration of these data requires correspondence tables. These establish a correspondence between the different classifications of flow-objects, activities and properties. These correspondance tables are sometimes available from data providers (e.g [UN Stats](https://unstats.un.org/unsd/trade/classifications/correspondence-tables.asp)). In other cases the correspondance tables are created by the group.
+
 
 ## Group members
 
@@ -16,36 +18,39 @@ The integration of these data requires correspondence tables. These establish a 
  * [Tiago Morais](https://github.com/tgmorais1)
  * [Massimo Pizzol](https://github.com/massimopizzol)
 
-## Defining goals and objectives  
-The goal of this working group is to collect and classify correspondence tables between existing classifications, distinguishing between products, activities and elementary flows and to convert the correspondence tables in RDF format for entry into the database. 
-All correpsondence tables shall be in machine-readable format. The correspondence tables currently available are stored as received in the folder `raw`. The final version after processed to a more usable format are available in the folder `final tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py). The scripts processing the data are available on the folder `scripts`.  
+## Goals and objectives  
+The goal of this working group is to collect, validate and classify correspondence tables between existing classifications and to convert the correspondence tables into a RDF serialization format for entry into the BONSAI database.
+
+## Working procedure
+
+The correspondence tables currently available are stored as received in the folder `raw`. The final version after processed to a more usable format are available in the folder `final tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py). The scripts processing the data are available on the folder `scripts`.  
   
-In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/raw/_Overview_of_available_correspondence_files.csv)
+In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/raw/_Overview_of_available_correspondence_files.csv).
 
-## Hackathon Deliverables
+# Overview of vocabulary used
 
-These can be grouped into "before", "during", and "stretch" goals.
+In the RDF framework data is stored as statements of form subject-predicate-object. The existence of a predicate allows a more concise definition of the relation between the classifications. Here we provide an overview of the predicates used in correspondance tables.
 
-### Before the hackathon
+**note:** in RDF subject object and predicate have unique identifiers (URIs), that makes the statements wordy for humans. The examples here are provided in Turtle serialization format. We use prefixes to make the sentences more readable.
 
-* Collect and classify in this directory existing correspondence tables, distinguishing between activities, products and elementary flows tables (converted in csv) previously on the BONSAI goolge drive. (DONE) 
-* Upload the converted tables in this directory and delete them from the goolge drive (after a month). (DONE)
-* Add missing classification, if any.
-* Discuss and provide recommendations on dealing with 1-N, N-1, M-N situations
+prefixes:
+- @prefix brdffo: <http://rdf.bonsai.uno/flowobject/us_epa_elem/> .
+- @prefix owl: <http://www.w3.org/2002/07/owl#> .
+- @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-### During the hackathon
+**rdfs:label** it may be used to provide a human-readable version of the resource name
 
-Convert the correspondence tables in RDF format for entry into the database.
+e.g. brdffo:Chemical-Structure.11148 rdfs:label "HFC-41" 
 
-Create a metadata format for generated CSVs using `DataPackages` from [frictionless data](https://frictionlessdata.io/docs/using-data-packages-in-python/). See the example file `Bonsai_Datapackage_example.py` for a tutorial.
+This means that what the chemical structure _11148_ is labelled as HFC-41, 
 
-### Stretch goals
+**rdfs:subClassOf**
 
- Expand the correspondence tables converted in RDF format to allow traversing as many classifications as possible.
- 
- 
- 
+This means instances of one class are instances of another, e.g. HFC-41 is a subclass of HFC
 
-****Notes for the users:**
+**OWL.SameAs** this predicate indicates that subject and object are the same thing 
 
-*Exiobase HSUTs/HIOT have 164 activities while MSUTs/MIOT have 163 activities. In the HSUTs/HIOT the activity "i40.2 - Manufacture of gas; distribution of gas" is divided into "i40.2.a - Manufacture of gas" and "i40.2.b - Distribution of gas"*
+e.g. : brdffo:Chemical-Structure.11148 owl:sameAs <http://www.chemspider.com/Chemical-Structure.11148> .
+
+This links the taxonomy of US EPA elementary flows to substances in the chemspider taxonomy. This allows access to a wide wealth of [info](http://www.chemspider.com/Chemical-Structure.11148.html) available in Chemspider for the given substance.
+
