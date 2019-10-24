@@ -1,0 +1,201 @@
+,hsut product name,hiot product name
+0,Paddy rice,Paddy rice
+1,Wheat,Wheat
+2,Cereal grains nec,Cereal grains nec
+3,Vegetables; fruit; nuts,"Vegetables, fruit, nuts"
+4,Oil seeds,Oil seeds
+5,Sugar cane; sugar beet,"Sugar cane, sugar beet"
+6,Plant-based fibers,Plant-based fibers
+7,Crops nec,Crops nec
+8,Cattle,Cattle
+9,Pigs,Pigs
+10,Poultry,Poultry
+11,Meat animals nec,Meat animals nec
+12,Animal products nec,Animal products nec
+13,Raw milk,Raw milk
+14,Wool; silk-worm cocoons,"Wool, silk-worm cocoons"
+15,Manure (conventional treatment),Manure (conventional treatment)
+16,Manure (biogas treatment),Manure (biogas treatment)
+17,Products of forestry; logging and related services (02),"Products of forestry, logging and related services (02)"
+18,Fish and other fishing products; services incidental of fishing (05),Fish and other fishing products; services incidental of fishing (05)
+19,Anthracite,"Coal, lignite and peat"
+20,Coking Coal,"Coal, lignite and peat"
+21,Other Bituminous Coal,"Coal, lignite and peat"
+22,Sub-Bituminous Coal,"Coal, lignite and peat"
+23,Patent Fuel,"Coal, lignite and peat"
+24,Lignite/Brown Coal,"Coal, lignite and peat"
+25,BKB/Peat Briquettes,"Coal, lignite and peat"
+26,Peat,"Coal, lignite and peat"
+27,Crude petroleum and services related to crude oil extraction; excluding surveying,"Crude petroleum and services related to crude oil extraction, excluding surveying"
+28,Natural gas and services related to natural gas extraction; excluding surveying,"Natural gas and services related to natural gas extraction, excluding surveying; inclulding liquid gas"
+29,Natural Gas Liquids,"Natural gas and services related to natural gas extraction, excluding surveying; inclulding liquid gas"
+30,Other Hydrocarbons,Other Hydrocarbons
+31,Uranium and thorium ores (12),Uranium and thorium ores (12)
+32,Iron ores,Iron ores
+33,Copper ores and concentrates,Copper ores and concentrates
+34,Nickel ores and concentrates,Nickel ores and concentrates
+35,Aluminium ores and concentrates,Aluminium ores and concentrates
+36,Precious metal ores and concentrates,Precious metal ores and concentrates
+37,Lead; zinc and tin ores and concentrates,"Lead, zinc and tin ores and concentrates"
+38,Other non-ferrous metal ores and concentrates,Other non-ferrous metal ores and concentrates
+39,Stone,Stone
+40,Sand and clay,Sand and clay
+41,Chemical and fertilizer minerals; salt and other mining and quarrying products n.e.c.,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c."
+42,Products of meat cattle,Products of meat cattle
+43,Products of meat pigs,Products of meat pigs
+44,Products of meat poultry,Products of meat poultry
+45,Meat products nec,Meat products nec
+46,products of Vegetable oils and fats,products of Vegetable oils and fats
+47,Dairy products,Dairy products
+48,Processed rice,Processed rice
+49,Sugar,Sugar
+50,Food products nec,Food products nec
+51,Beverages,Beverages
+52,Fish products,Fish products
+53,Tobacco products (16),Tobacco products (16)
+54,Textiles (17),Textiles (17)
+55,Wearing apparel; furs (18),Wearing apparel; furs (18)
+56,Leather and leather products (19),Leather and leather products (19)
+57,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20)
+58,Wood material for treatment; Re-processing of secondary wood material into new wood material,"Wood material for treatment, Re-processing of secondary wood material into new wood material"
+59,Pulp,Pulp
+60,Secondary paper for treatment; Re-processing of secondary paper into new pulp,"Secondary paper for treatment, Re-processing of secondary paper into new pulp"
+61,Paper and paper products,Paper and paper products
+62,Printed matter and recorded media (22),Printed matter and recorded media (22)
+63,Coke Oven Coke,Coke oven products
+64,Gas Coke,Coke oven products
+65,Coal Tar,Coke oven products
+66,Motor Gasoline, Refined Petroleum
+67,Aviation Gasoline, Refined Petroleum
+68,Gasoline Type Jet Fuel, Refined Petroleum
+69,Kerosene Type Jet Fuel, Refined Petroleum
+70,Kerosene, Refined Petroleum
+71,Gas/Diesel Oil, Refined Petroleum
+72,Heavy Fuel Oil, Refined Petroleum
+73,Refinery Gas, Refined Petroleum
+74,Liquefied Petroleum Gases (LPG), Refined Petroleum
+75,Refinery Feedstocks, Refined Petroleum
+76,Ethane, Refined Petroleum
+77,Naphtha, Refined Petroleum
+78,White Spirit & SBP, Refined Petroleum
+79,Lubricants, Refined Petroleum
+80,Bitumen, Refined Petroleum
+81,Paraffin Waxes, Refined Petroleum
+82,Petroleum Coke, Refined Petroleum
+83,Non-specified Petroleum Products, Refined Petroleum
+84,Nuclear fuel,Nuclear fuel
+85,Plastics; basic,"Plastics, basic"
+86,Secondary plastic for treatment; Re-processing of secondary plastic into new plastic,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic"
+87,N-fertiliser,N-fertiliser
+88,P- and other fertiliser,P- and other fertiliser
+89,Chemicals nec,Chemicals nec; additives and biofuels
+90,Charcoal,Chemicals nec; additives and biofuels
+91,Additives/Blending Components,Chemicals nec; additives and biofuels
+92,Biogasoline,Chemicals nec; additives and biofuels
+93,Biodiesels,Chemicals nec; additives and biofuels
+94,Other Liquid Biofuels,Chemicals nec; additives and biofuels
+95,Rubber and plastic products (25),Rubber and plastic products (25)
+96,Glass and glass products,Glass and glass products
+97,Secondary glass for treatment; Re-processing of secondary glass into new glass,"Secondary glass for treatment, Re-processing of secondary glass into new glass"
+98,Ceramic goods,Ceramic goods
+99,Bricks; tiles and construction products; in baked clay,"Bricks, tiles and construction products, in baked clay"
+100,Cement; lime and plaster,"Cement, lime and plaster"
+101,Ash for treatment; Re-processing of ash into clinker,"Ash for treatment, Re-processing of ash into clinker"
+102,Other non-metallic mineral products,Other non-metallic mineral products
+103,Basic iron and steel and of ferro-alloys and first products thereof,Basic iron and steel and of ferro-alloys and first products thereof
+104,Secondary steel for treatment; Re-processing of secondary steel into new steel,"Secondary steel for treatment, Re-processing of secondary steel into new steel"
+105,Precious metals,Precious metals
+106,Secondary preciuos metals for treatment; Re-processing of secondary preciuos metals into new preciuos metals,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals"
+107,Aluminium and aluminium products,Aluminium and aluminium products
+108,Secondary aluminium for treatment; Re-processing of secondary aluminium into new aluminium,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium"
+109,Lead; zinc and tin and products thereof,"Lead, zinc and tin and products thereof"
+110,Secondary lead for treatment; Re-processing of secondary lead into new lead,"Secondary lead for treatment, Re-processing of secondary lead into new lead"
+111,Copper products,Copper products
+112,Secondary copper for treatment; Re-processing of secondary copper into new copper,"Secondary copper for treatment, Re-processing of secondary copper into new copper"
+113,Other non-ferrous metal products,Other non-ferrous metal products
+114,Secondary other non-ferrous metals for treatment; Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals"
+115,Foundry work services,Foundry work services
+116,Fabricated metal products; except machinery and equipment (28),"Fabricated metal products, except machinery and equipment (28)"
+117,Machinery and equipment n.e.c. (29),Machinery and equipment n.e.c. (29)
+118,Office machinery and computers (30),Office machinery and computers (30)
+119,Electrical machinery and apparatus n.e.c. (31),Electrical machinery and apparatus n.e.c. (31)
+120,Radio; television and communication equipment and apparatus (32),"Radio, television and communication equipment and apparatus (32)"
+121,Medical; precision and optical instruments; watches and clocks (33),"Medical, precision and optical instruments, watches and clocks (33)"
+122,Motor vehicles; trailers and semi-trailers (34),"Motor vehicles, trailers and semi-trailers (34)"
+123,Other transport equipment (35),Other transport equipment (35)
+124,Furniture; other manufactured goods n.e.c. (36),Furniture; other manufactured goods n.e.c. (36)
+125,Secondary raw materials,Secondary raw materials
+126,Bottles for treatment; Recycling of bottles by direct reuse,"Bottles for treatment, Recycling of bottles by direct reuse"
+127,Electricity by coal,Electricity by coal
+128,Electricity by gas,Electricity by gas
+129,Electricity by nuclear,Electricity by nuclear
+130,Electricity by hydro,Electricity by hydro
+131,Electricity by wind,Electricity by wind
+132,Electricity by petroleum and other oil derivatives,Electricity by petroleum and other oil derivatives
+133,Electricity by biomass and waste,Electricity by biomass and waste
+134,Electricity by solar photovoltaic,Electricity by solar photovoltaic
+135,Electricity by solar thermal,Electricity by solar thermal
+136,Electricity by tide; wave; ocean,"Electricity by tide, wave, ocean"
+137,Electricity by Geothermal,Electricity by Geothermal
+138,Electricity nec,Electricity nec
+139,Transmission services of electricity,Transmission services of electricity
+140,Distribution and trade services of electricity,Distribution and trade services of electricity
+141,Coke oven gas,Biogas an other gases nec.
+142,Blast Furnace Gas,Biogas an other gases nec.
+143,Oxygen Steel Furnace Gas,Biogas an other gases nec.
+144,Gas Works Gas,Biogas an other gases nec.
+145,Biogas,Biogas an other gases nec.
+146,Distribution services of gaseous fuels through mains,Distribution services of gaseous fuels through mains
+147,Steam and hot water supply services,Steam and hot water supply services
+148,Collected and purified water; distribution services of water (41),"Collected and purified water, distribution services of water (41)"
+149,Construction work (45),Construction work (45)
+150,Secondary construction material for treatment; Re-processing of secondary construction material into aggregates,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates"
+151,Sale; maintenance; repair of motor vehicles; motor vehicles parts; motorcycles; motor cycles parts and accessoiries,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries"
+152,Retail trade services of motor fuel,Retail trade services of motor fuel
+153,Wholesale trade and commission trade services; except of motor vehicles and motorcycles (51),"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)"
+154,Retail  trade services; except of motor vehicles and motorcycles; repair services of personal and household goods (52),"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)"
+155,Hotel and restaurant services (55),Hotel and restaurant services (55)
+156,Railway transportation services,Railway transportation services
+157,Other land transportation services,Other land transportation services
+158,Transportation services via pipelines,Transportation services via pipelines
+159,Sea and coastal water transportation services,Sea and coastal water transportation services
+160,Inland water transportation services,Inland water transportation services
+161,Air transport services (62),Air transport services (62)
+162,Supporting and auxiliary transport services; travel agency services (63),Supporting and auxiliary transport services; travel agency services (63)
+163,Post and telecommunication services (64),Post and telecommunication services (64)
+164,Financial intermediation services; except insurance and pension funding services (65),"Financial intermediation services, except insurance and pension funding services (65)"
+165,Insurance and pension funding services; except compulsory social security services (66),"Insurance and pension funding services, except compulsory social security services (66)"
+166,Services auxiliary to financial intermediation (67),Services auxiliary to financial intermediation (67)
+167,Real estate services (70),Real estate services (70)
+168,Renting services of machinery and equipment without operator and of personal and household goods (71),Renting services of machinery and equipment without operator and of personal and household goods (71)
+169,Computer and related services (72),Computer and related services (72)
+170,Research and development services (73),Research and development services (73)
+171,Other business services (74),Other business services (74)
+172,Public administration and defence services; compulsory social security services (75),Public administration and defence services; compulsory social security services (75)
+173,Education services (80),Education services (80)
+174,Health and social work services (85),Health and social work services (85)
+175,Food waste for treatment: incineration,Food waste for treatment: incineration
+176,Paper waste for treatment: incineration,Paper waste for treatment: incineration
+177,Plastic waste for treatment: incineration,Plastic waste for treatment: incineration
+178,Intert/metal waste for treatment: incineration,Intert/metal waste for treatment: incineration
+179,Textiles waste for treatment: incineration,Textiles waste for treatment: incineration
+180,Wood waste for treatment: incineration,Wood waste for treatment: incineration
+181,Oil/hazardous waste for treatment: incineration,Oil/hazardous waste for treatment: incineration
+182,Food waste for treatment: biogasification and land application,Food waste for treatment: biogasification and land application
+183,Paper waste for treatment: biogasification and land application,Paper waste for treatment: biogasification and land application
+184,Sewage sludge for treatment: biogasification and land application,Sewage sludge for treatment: biogasification and land application
+185,Food waste for treatment: composting and land application,Food waste for treatment: composting and land application
+186,Paper and wood waste for treatment: composting and land application,Paper and wood waste for treatment: composting and land application
+187,Food waste for treatment: waste water treatment,Food waste for treatment: waste water treatment
+188,Other waste for treatment: waste water treatment,Other waste for treatment: waste water treatment
+189,Food waste for treatment: landfill,Food waste for treatment: landfill
+190,Paper for treatment: landfill,Paper for treatment: landfill
+191,Plastic waste for treatment: landfill,Plastic waste for treatment: landfill
+192,Inert/metal/hazardous waste for treatment: landfill,Inert/metal/hazardous waste for treatment: landfill
+193,Textiles waste for treatment: landfill,Textiles waste for treatment: landfill
+194,Wood waste for treatment: landfill,Wood waste for treatment: landfill
+195,Membership organisation services n.e.c. (91),Membership organisation services n.e.c. (91)
+196,Recreational; cultural and sporting services (92),"Recreational, cultural and sporting services (92)"
+197,Other services (93),Other services (93)
+198,Private households with employed persons (95),Private households with employed persons (95)
+199,Extra-territorial organizations and bodies,Extra-territorial organizations and bodies
