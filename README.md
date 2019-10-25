@@ -57,6 +57,7 @@ This means instances of one class are instances of another, e.g. HFC-41 is a sub
 Also, this predicate can be used to indicate that a class belongs to a specific classifications, such as "ISIC 4".
 
 **bont:superClassOf**
+
 We need to declare this predicate for the BONSAI ontology: 
 bont:superClassOf owl:inverseOf refs:SuperClassOf
 
