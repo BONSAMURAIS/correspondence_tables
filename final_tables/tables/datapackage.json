@@ -27,6 +27,36 @@
             }
         },
         {
+            "path": "final_tables/tables/usepa_to_chemspyder.csv",
+            "profile": "tabular-data-resource",
+            "name": "usepa_to_chemspyder",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "US_EPA_Name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "predicate",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "chemspyder_URI",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
             "path": "final_tables/tables/exiobase_to_usepa_ghg.csv",
             "profile": "tabular-data-resource",
             "name": "exiobase_to_usepa_ghg",
