@@ -44,13 +44,21 @@ e.g. brdffo:Chemical-Structure.11148 rdfs:label "HFC-41"
 
 This means that what the chemical structure _11148_ is labelled as HFC-41, 
 
-**rdfs:subClassOf**
-
-This means instances of one class are instances of another, e.g. HFC-41 is a subclass of HFC
-
 **OWL.SameAs** this predicate indicates that subject and object are the same thing 
 
 e.g. : brdffo:Chemical-Structure.11148 owl:sameAs <http://www.chemspider.com/Chemical-Structure.11148> .
 
 This links the taxonomy of US EPA elementary flows to substances in the chemspider taxonomy. This allows access to a wide wealth of [info](http://www.chemspider.com/Chemical-Structure.11148.html) available in Chemspider for the given substance.
 
+**rdfs:subClassOf**
+
+This means instances of one class are instances of another, e.g. HFC-41 is a subclass of HFC
+
+Also, this predicate can be used to indicate that a class belongs to a specific classifications, such as "ISIC 4".
+
+**superClassOf**
+<owl:ObjectProperty rdf:ID="superClassOf">
+   <owl:inverseOf rdf:resource="#subClassOf"/>
+ </owl:ObjectProperty>
+
+The inverse of rdfs:subClassOf, allowing to import/export a correspondance table between two classifications as a csv-file with 3 columns (classification 1, predicate, Classification 2)
