@@ -1,0 +1,265 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "final_tables/tables/usepa_uri.csv",
+            "profile": "tabular-data-resource",
+            "name": "usepa_uri",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "US_EPA_Name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "URI",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/exiobase_to_usepa_ghg.csv",
+            "profile": "tabular-data-resource",
+            "name": "exiobase_to_usepa_ghg",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Exiobase",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "US_EPA",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/exiobase_to_bentso_activities.csv",
+            "profile": "tabular-data-resource",
+            "name": "exiobase_to_bentso_activities",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Exiobase Activity name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Bentso technology",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/usepa_radiativef.csv",
+            "profile": "tabular-data-resource",
+            "name": "usepa_radiativef",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "US_EPA_Name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Radiative Forcing 100(W m-2 yr kg-1)",
+                        "type": "number",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/exiobase_products_hsut_hiot.csv",
+            "profile": "tabular-data-resource",
+            "name": "exiobase_products_hsut_hiot",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "hsut product name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "predicate",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "hiot product name",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/bentso_activity_types_uri.csv",
+            "profile": "tabular-data-resource",
+            "name": "bentso_activity_types_uri",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Bentso technology",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "uri",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/usepa_to_ipcc_ghg.csv",
+            "profile": "tabular-data-resource",
+            "name": "usepa_to_ipcc_ghg",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ipcc_name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "US_EPA_Name",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/usepa_temperature_increase.csv",
+            "profile": "tabular-data-resource",
+            "name": "usepa_temperature_increase",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "US_EPA_Name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Temperature_increase_(C/kg)",
+                        "type": "number",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/unit_exiobase_bentso_converter.csv",
+            "profile": "tabular-data-resource",
+            "name": "unit_exiobase_bentso_converter",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "exiobase_units",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ontology_uri",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "final_tables/tables/bentso_exiobase_country_code.csv",
+            "profile": "tabular-data-resource",
+            "name": "bentso_exiobase_country_code",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "exiobase_country_code",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "bentso_Country_code",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Geonames_code",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
