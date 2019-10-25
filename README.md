@@ -56,9 +56,8 @@ This means instances of one class are instances of another, e.g. HFC-41 is a sub
 
 Also, this predicate can be used to indicate that a class belongs to a specific classifications, such as "ISIC 4".
 
-**superClassOf**
-<owl:ObjectProperty rdf:ID="superClassOf">
-   <owl:inverseOf rdf:resource="#subClassOf"/>
- </owl:ObjectProperty>
+**bont:superClassOf**
+We need to declare this predicate for the BONSAI ontology: 
+bont:superClassOf owl:inverseOf refs:SuperClassOf
 
 The inverse of rdfs:subClassOf, allowing to import/export a correspondance table between two classifications as a csv-file with 3 columns (classification 1, predicate, Classification 2)
