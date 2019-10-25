@@ -58,7 +58,8 @@ Also, this predicate can be used to indicate that a class belongs to a specific 
 
 **bont:superClassOf**
 
-We need to declare this predicate for the BONSAI ontology: 
+We need to declare this predicate for the BONSAI ontology:
+
 bont:superClassOf owl:inverseOf refs:SuperClassOf
 
 The inverse of rdfs:subClassOf, allowing to import/export a correspondance table between two classifications as a csv-file with 3 columns (classification 1, predicate, Classification 2)
