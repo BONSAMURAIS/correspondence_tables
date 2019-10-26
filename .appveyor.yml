@@ -1,0 +1,25 @@
+skip_commits:
+  message: /^Merge pull request /
+
+build: false
+
+environment:
+  PYTHONIOENCODING: "UTF-8"
+
+  matrix:
+    - PYTHON_VERSION: "3.7"
+      PYTHON_ARCH: "64"
+      CONDA_PY: "37"
+      CONDA_INSTALL_LOCN: "C:\\Miniconda37-x64"
+
+install:
+  - call %CONDA_INSTALL_LOCN%\Scripts\activate.bat
+  - python --version
+  - conda config --set always_yes yes
+  - conda update -y conda
+  - conda install -y -c conda-forge <add your conda dependencies here> pytest pytest-cov coveralls
+  - pip install <add any other dependencies not available in conda here>
+  - pip install -e .
+
+test_script:
+  - pytest
