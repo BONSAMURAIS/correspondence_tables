@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Correspondance-tables CLI.
+"""Correspondence-tables CLI.
 
 Usage:
-  Correspondance-tables-cli regenerate <dirpath>
+  Correspondence-tables-cli regenerate <dirpath>
 
 Options:
   -h --help     Show this screen.
