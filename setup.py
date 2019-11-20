@@ -7,7 +7,7 @@ if root_dir:
     os.chdir(root_dir)
 
 # Probably should be changed, __init__.py is no longer required for Python 3
-for dirpath, dirnames, filenames in os.walk('Correspondance-tables'):
+for dirpath, dirnames, filenames in os.walk('Correspondence-tables'):
     # Ignore dirnames that start with '.'
     if '__init__.py' in filenames:
         pkg = dirpath.replace(os.path.sep, '.')
@@ -25,16 +25,16 @@ def package_files(directory):
 
 
 setup(
-    name='Correspondance-tables',
-    version="0.3",
+    name='Correspondence-tables',
+    version="0.1",
     packages=packages,
     author="BONSAI team",
     author_email="info@bonsai.uno",
     license=open('LICENSE').read(),
-    package_data={'Correspondance-tables': package_files(os.path.join('Correspondance-tables', 'data'))},
+    package_data={'Correspondence-tables': package_files(os.path.join('Correspondence-tables', 'data'))},
     entry_points = {
         'console_scripts': [
-            'Correspondance-tables-cli = Correspondance-tables.bin.Correspondance-tables_cli:main',
+            'Correspondence-tables-cli = Correspondence-tables.bin.Correspondence-tables_cli:main',
         ]
     },
     install_requires=[
@@ -43,7 +43,7 @@ setup(
         'rdflib',
         'xlrd',
     ],
-    url="https://github.com/BONSAMURAIS/Correspondance-tables",
+    url="https://github.com/BONSAMURAIS/Correspondence-tables",
     long_description=open('README.md').read(),
     description="Generate the URIs needed for the BONSAI knowledge graph",
     classifiers=[
