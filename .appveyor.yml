@@ -17,9 +17,9 @@ install:
   - python --version
   - conda config --set always_yes yes
   - conda update -y conda
-  - conda install -y -c conda-forge <add your conda dependencies here> pytest pytest-cov coveralls
-  - pip install <add any other dependencies not available in conda here>
+  - conda install -y -c conda-forge pandas pytest pytest-cov coveralls docopt rdflib
   - pip install -e .
 
 test_script:
   - pytest
+
