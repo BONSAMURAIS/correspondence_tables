@@ -34,7 +34,7 @@ setup(
     package_data={'Correspondence-tables': package_files(os.path.join('Correspondence-tables', 'data'))},
     entry_points = {
         'console_scripts': [
-            'Correspondence-tables-cli = Correspondence-tables.bin.Correspondence-tables_cli:main',
+            'Correspondence-tables-cli = Correspondence-tables.bin.Correspondence_tables_cli:main',
         ]
     },
     install_requires=[
