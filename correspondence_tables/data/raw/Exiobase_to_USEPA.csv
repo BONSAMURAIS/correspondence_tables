@@ -1,0 +1,131 @@
+Exiobase,Exiobase_compartment,US_EPA
+"Carbon dioxide, fossil",air,Carbon dioxide
+N2O,air,Nitrous oxide
+CH4,air,Methane
+HFCs,air,HFC-23
+HFCs,air,HFC-32
+HFCs,air,HFC-41
+HFCs,air,HFC-125
+HFCs,air,HFC-134
+HFCs,air,HFC-134a
+HFCs,air,HFC-143
+HFCs,air,HFC-143a
+HFCs,air,HFC-152
+HFCs,air,HFC-152a
+HFCs,air,HFC-161
+HFCs,air,HFC-227ea
+HFCs,air,HFC-236cb
+HFCs,air,HFC-236ea
+HFCs,air,HFC-236fa
+HFCs,air,HFC-245ca
+HFCs,air,HFC-245fa
+HFCs,air,HFC-365mfc
+HFCs,air,HFC-4310mee
+HFCs,air,HFC-1234ze(E)
+PFCs,air,Perfluoropropane
+PFCs,air,Perfluorocyclobutane
+PFCs,air,Perfluorobutane
+PFCs,air,Perfluoropentane
+PFCs,air,Perfluorohexane
+PFCs,air,Perfluorodecalin
+PFCs,air,Hexafluoroethane
+SF6,air,Sulfur hexafluoride
+NOX,air,
+SOx,air,
+NH3,air,
+NMVOC,air,
+CO,air,
+CFCs,air,CFC-11
+CFCs,air,CFC-12
+CFCs,air,CFC-13
+CFCs,air,CFC-113
+CFCs,air,CFC-114
+CFCs,air,CFC-115
+HCFCs,air,HCFC-21
+HCFCs,air,HCFC-22
+HCFCs,air,HCFC-122
+HCFCs,air,HCFC-123
+HCFCs,air,HCFC-123a
+HCFCs,air,HCFC-124
+HCFCs,air,HCFC-141b
+HCFCs,air,HCFC-142b
+HCFCs,air,HCFC-225ca
+HCFCs,air,HCFC-225cb
+Pb,air,
+Cd,air,
+Hg,air,
+As,air,
+Cr,air,
+Cu,air,
+Ni,air,
+Se,air,
+Zn,air,
+Aldrin,air,
+Chlordane,air,
+Chlordecone,air,
+Dieldrin,air,
+Endrin,air,
+Heptachlor,air,
+Hexabr.-biph.,air,
+Mirex,air,
+Toxaphene,air,
+HCH,air,
+DDT,air,
+PCB,air,
+dioxin,air,
+PM10,air,
+"PAH (total of 4 components, sum of EM_AIR.43, 45, 46, 47)",air,
+Benzene,air,
+"1,3 Butadiene",air,
+Formaldehyd,air,
+PM2.5,air,
+Furans,air,
+Benzo-[a]-pyrene,air,
+PBDEs,air,
+Benzo-[b]-fluoranthene,air,
+Benzo-[k]-fluoranthene,air,
+"Indeno-[1,2,3-cd]-pyrene",air,
+HCB,air,
+PCDD/F (dioxins and furans),air,
+TSP (total suspended particulate),air,
+N,water,
+P,water,
+BOD,water,
+N,soil,
+P,soil,
+Cd,soil,
+Cu,soil,
+Zn,soil,
+Pb,soil,
+Hg,soil,
+Cr,soil,
+Ni,soil,
+C,air,
+other emissions,undef,
+"Carbon dioxide, biogenic",air,Carbon dioxide
+Other emissions nec,air,Carbon tetrachloride
+Other emissions nec,air,Chloromethane
+Other emissions nec,air,Methylene chloride
+Other emissions nec,air,Chloroform
+Other emissions nec,air,Dichloroethane
+Other emissions nec,air,Methyl bromide
+Other emissions nec,air,Dibromomethane
+Other emissions nec,air,Bromodifluoromethane
+Other emissions nec,air,Halon 1211
+Other emissions nec,air,Halon 1301
+Other emissions nec,air,Nitrogen trifluoride
+Other emissions nec,air,Trifluoromethyl sulfur pentafluoride
+Other emissions nec,air,Sulfuryl fluoride
+Other emissions nec,air,Carbon tetrafluoride
+Other emissions nec,air,Tetrafluoroethene
+Other emissions nec,air,HFE-329mcc2
+Other emissions nec,air,HFE-338mcf2
+Other emissions nec,air,HFE-347mcf2
+Other emissions nec,air,HFE-347pcf2
+Other emissions nec,air,HFE-356mec3
+Other emissions nec,air,HFE-356pcf2
+Other emissions nec,air,HFE-356pcf3
+Other emissions nec,air,HFE-356pcc3
+Other emissions nec,air,HFE-365mcf3
+Other emissions nec,air,HFE-338pcc13 (HG-01)
+Other emissions nec,air,Methyl chlorocarbonate
