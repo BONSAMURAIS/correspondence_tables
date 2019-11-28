@@ -23,7 +23,7 @@ The goal of this working group is to collect, validate and classify corresponden
 
 ## Working procedure
 
-The correspondence tables currently available are stored as received in the folder `raw`. The final version after processed to a more usable format are available in the folder `final tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py). The scripts processing the data are available on the folder `scripts`.  
+The correspondence tables currently available are stored as received in the folder `data\raw`. The final version after processed to a more usable format are available in the folder `data\final_tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py) That contain metadata.  
   
 In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/raw/_Overview_of_available_correspondence_files.csv).
 
