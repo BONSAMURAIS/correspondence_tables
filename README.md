@@ -1,4 +1,4 @@
-# Correspondence-tables
+# Correspondence_tables
 This is a work space for the correspondence tables working group for BONSAI
 
 ## Background
@@ -6,11 +6,32 @@ BONSAI will draw data from multiple sources, e.g. national supply-use tables, st
 
 The integration of these data requires correspondence tables. These establish a correspondence between the different classifications of flow-objects, activities and properties. These correspondance tables are sometimes available from data providers (e.g [UN Stats](https://unstats.un.org/unsd/trade/classifications/correspondence-tables.asp)). In other cases the correspondance tables are created by the group.
 
+This repo contains the data and code to transform a series of correspondence table into a rdf files using ontologies compatible with bonsai. When possible, the code will generate the rdf files from the raw data as made available by the data provider.
+
+## Installation
+### manual
+
+Call `python setup.py install` inside the repository:
+
+```
+git clone git@github.com:BONSAMURAIS/correspondence_tables.git
+cd correspondence_tables
+python setup.py install
+```
+## Usage
+
+This functionality is not working yet, but eventually users can 
+use the command line tool `correspondence_tables-cli` to regenerate
+the rdf files using something like:
+
+```
+correspondence_tables-cli regenerate output
+```
 
 ## Group members
 
  * [Michele De Rosa](https://github.com/MicDr)
- * [Miguel Astudillo](https://github.com/mfastudillo)
+ * [Miguel F. Astudillo](https://github.com/mfastudillo)
  * [Brandon Kuczenski](https://github.com/bkuczenski)
  * [Chris Mutel](https://github.com/cmutel)
  * [Stefano Merciai](https://github.com/Stefano-MRC)
@@ -23,9 +44,7 @@ The goal of this working group is to collect, validate and classify corresponden
 
 ## Working procedure
 
-The correspondence tables currently available are stored as received in the folder `data\raw`. The final version after processed to a more usable format are available in the folder `data\final_tables`. This folder also includes descriptors of each table created with the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py) That contain metadata.  
-  
-In order to keep track of what correspondence tables are available, all developments on the correspondence tables (e.g. add new table, change status of existing file etc) shall be reported in the overview file above  [_Overview_of_available_correspondence_files](https://github.com/BONSAMURAIS/Correspondence-tables/blob/master/raw/_Overview_of_available_correspondence_files.csv).
+The correspondence tables currently available are stored as received in the folder `data\raw`. The raw data has often to be reformated into a standadised format and stored in the folder `data\intermediate` with their metadata encoded as a descriptor following the [frictionless data table schema](https://github.com/frictionlessdata/tableschema-py). From the _clean_ tables and their metadata the corresponding rdf file is created and stored in the folder `data\final`. 
 
 # Overview of vocabulary used
 
