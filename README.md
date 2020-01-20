@@ -9,6 +9,15 @@ The integration of these data requires correspondence tables. These establish a 
 This repo contains the data and code to transform a series of correspondence table into a rdf files using ontologies compatible with bonsai. When possible, the code will generate the rdf files from the raw data as made available by the data provider.
 
 ## Installation
+
+### with package managers 
+
+available via `pip`
+
+```
+pip install correspondence_tables
+```
+
 ### manual
 
 Call `python setup.py install` inside the repository:
