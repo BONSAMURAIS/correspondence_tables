@@ -1,0 +1,7 @@
+subject,predicate,object
+brdffo:C_CLPT,a,bont:FlowObject
+brdffo:C_GASS,a,bont:FlowObject
+brdffo:C_COPR,a,bont:FlowObject
+brdffo:C_REFP,a,bont:FlowObject
+brdffo:C_CHBI,a,bont:FlowObject
+brdffo:C_BGAS,a,bont:FlowObject

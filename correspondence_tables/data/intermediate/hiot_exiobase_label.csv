@@ -1,0 +1,7 @@
+subject,predicate,object
+brdffo:C_CLPT,rdfs:label,"Coal, lignite and peat"
+brdffo:C_GASS,rdfs:label,"Natural gas and services related to natural gas extraction, excluding surveying; inclulding liquid gas"
+brdffo:C_COPR,rdfs:label,Coke oven products
+brdffo:C_REFP,rdfs:label, Refined Petroleum
+brdffo:C_CHBI,rdfs:label,Chemicals nec; additives and biofuels
+brdffo:C_BGAS,rdfs:label,Biogas an other gases nec.
