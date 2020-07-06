@@ -1,0 +1,44 @@
+index,product_name,product_code,agg_product_name,agg_product_code,activity,activity_code
+1,Anthracite,C_ANTH,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+2,Coking Coal,C_COKC,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+3,Other Bituminous Coal,C_OTBC,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+4,Sub-Bituminous Coal,C_SUBC,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+5,Patent Fuel,C_PATF,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+6,Lignite/Brown Coal,C_LIBC,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+7,BKB/Peat Briquettes,C_BKBP,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+8,Peat,C_PEAT,"Coal, lignite and peat",C_CLPT,Mining of coal and lignite; extraction of peat (10),A_COAL
+9,Crude petroleum and services related to crude oil extraction; excluding surveying,C_COIL,"Crude petroleum and services related to crude oil extraction, excluding surveying",C_COIL,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",A_COIL
+10,Natural gas and services related to natural gas extraction; excluding surveying,C_GASE,"Natural gas and services related to natural gas extraction, excluding surveying; inclulding liquid gas",C_GASS,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",A_GASE
+11,Natural Gas Liquids,C_GASL,"Natural gas and services related to natural gas extraction, excluding surveying; inclulding liquid gas",C_GASS,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",A_GASE
+12,Coke Oven Coke,C_COKE,Coke oven products,C_COPR,Manufacture of coke oven products,A_COKE
+13,Gas Coke,C_GCOK,Coke oven products,C_COPR,Manufacture of coke oven products,A_COKE
+14,Coal Tar,C_COTA,Coke oven products,C_COPR,Manufacture of coke oven products,A_COKE
+15,Motor Gasoline,C_MGSL, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+16,Aviation Gasoline,C_AGSL, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+17,Gasoline Type Jet Fuel,C_GJET, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+18,Kerosene Type Jet Fuel,C_KJET, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+19,Kerosene,C_KERO, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+20,Gas/Diesel Oil,C_DOIL, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+21,Heavy Fuel Oil,C_FOIL, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+22,Refinery Gas,C_RGAS, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+23,Liquefied Petroleum Gases (LPG),C_LPGA, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+24,Refinery Feedstocks,C_REFF, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+25,Ethane,C_ETHA, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+26,Naphtha,C_NAPT, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+27,White Spirit & SBP,C_WHSP, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+28,Lubricants,C_LUBR, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+29,Bitumen,C_BITU, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+30,Paraffin Waxes,C_PARW, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+31,Petroleum Coke,C_PETC, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+32,Non-specified Petroleum Products,C_NSPP, Refined Petroleum,C_REFP,Petroleum Refinery,A_REFN
+33,Chemicals nec,C_CHEM,Chemicals nec; additives and biofuels,C_CHBI,Chemicals nec,A_CHEM
+34,Charcoal,C_CHAR,Chemicals nec; additives and biofuels,C_CHBI,Chemicals nec,A_CHEM
+35,Additives/Blending Components,C_ADDC,Chemicals nec; additives and biofuels,C_CHBI,Chemicals nec,A_CHEM
+36,Biogasoline,C_BIOG,Chemicals nec; additives and biofuels,C_CHBI,Chemicals nec,A_CHEM
+37,Biodiesels,C_BIOD,Chemicals nec; additives and biofuels,C_CHBI,Chemicals nec,A_CHEM
+38,Other Liquid Biofuels,C_OBIO,Chemicals nec; additives and biofuels,C_CHBI,Chemicals nec,A_CHEM
+39,Coke oven gas,C_COOG,Biogas an other gases nec.,C_BGAS,Manufacture of gas;,A_MGWG
+40,Blast Furnace Gas,C_MBFG,Biogas an other gases nec.,C_BGAS,Manufacture of gas;,A_MGWG
+41,Oxygen Steel Furnace Gas,C_MOSG,Biogas an other gases nec.,C_BGAS,Manufacture of gas;,A_MGWG
+42,Gas Works Gas,C_MGWG,Biogas an other gases nec.,C_BGAS,Manufacture of gas;,A_MGWG
+43,Biogas,C_MBIO,Biogas an other gases nec.,C_BGAS,Manufacture of gas;,A_MGWG
