@@ -1,0 +1,3 @@
+subject,predicate,object
+brdffo:C_WHEA,OWL.SameAs,http://aims.fao.org/aos/agrovoc/c_8373
+brdffo:C_PARI,OWL.SameAs,http://aims.fao.org/aos/agrovoc/c_6599

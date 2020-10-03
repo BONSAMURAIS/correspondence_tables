@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Correspondence-tables CLI.
+"""correspondence_tables CLI.
 
 Usage:
-  Correspondence-tables-cli regenerate <dirpath>
+  correspondence_tables-cli regenerate <dirpath>
 
 Options:
   -h --help     Show this screen.
@@ -11,7 +11,7 @@ Options:
 
 """
 from docopt import docopt
-from Correspondence-tables import generate_all
+from correspondence_tables import generate_all
 import sys
 
 
